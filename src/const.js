@@ -1,0 +1,1 @@
+export const siteUrl = 'http://hamband.math.sharif.edu/98/api';
